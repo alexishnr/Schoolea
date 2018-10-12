@@ -12,6 +12,6 @@ Liste des fonctionnalités:
 - Possibilité de noter une formation par un système de rating qui calculera immédiatement la nouvelle moyenne d'une école et la mettra à jour.
 
 
-site visible sur http://schoolea.com/
+site visible sur https://schoolea.herokuapp.com/
 
 Bonne visite =)
