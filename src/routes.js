@@ -1,0 +1,9 @@
+export const SIGN_UP = '/signup';
+export const SIGN_IN = '/signin';
+export const SCHOOL = '/school';
+export const ACCOUNT = '/account';
+export const PASSWORD_FORGET = '/pw-forget';
+export const HOME = '/';
+export const SIGN = '/sign';
+export const MY_SCHOOLS = '/my-schools';
+export const ADD_SCHOOL = '/add_school';
