@@ -1,6 +1,6 @@
 # Schooléa
 
-Un annuaire de formation réalisé en React.js avec la base de données Firebase.
+Création d’un MVP d’un annuaire de formations réalisé en React JS avec la base de données Firebase.
 
 Liste des fonctionnalités:
 - Rechercher une formation par ville ou via des mots clés inscrits en base de données.
